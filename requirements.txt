@@ -1,5 +1,5 @@
 otter-grader == 1.0.0
-torchtext == 0.7
+torchtext == 0.8.0
 torch
 tqdm
 sentencepiece==0.1.92
